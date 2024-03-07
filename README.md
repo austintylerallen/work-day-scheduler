@@ -24,11 +24,11 @@ Usage
 
 The following screenshots demonstrates the application functionality:
 
-![Screenshot](full.png)
+![Screenshot](assets/full.png)
 
-![Screenshot](colors.png)
+![Screenshot](assets/colors.png)
 
-![Screenshot](stored.png)
+![Screenshot](assets/stored.png)
 
 Technologies Used
 
