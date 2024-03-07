@@ -22,7 +22,13 @@ Usage
 4.		Click the save button to save your event. You'll see a confirmation message once the event is saved.
 5. 		Your events will be saved locally, so you can close the browser and return later to see your schedule.
 
+The following screenshots demonstrates the application functionality:
 
+![Screenshot](full.png)
+
+![Screenshot](colors.png)
+
+![Screenshot](stored.png)
 
 Technologies Used
 
