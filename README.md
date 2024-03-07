@@ -22,7 +22,18 @@ Usage
 4.		Click the save button to save your event. You'll see a confirmation message once the event is saved.
 5. 		Your events will be saved locally, so you can close the browser and return later to see your schedule.
 
+The following screenshots demonstrates the application functionality:
 
+When you are on the app, this is what it will look like:
+![Screenshot](assets/full.png)
+
+
+Color functionality so the user knows past, present and future to-do's:
+![Screenshot](assets/colors.png)
+
+
+After you have entered your data, the app will then save your data to the local storage! A message appearing signifying your to-do's have been saved to the local storage successfully:
+![Screenshot](assets/stored.png)
 
 Technologies Used
 
